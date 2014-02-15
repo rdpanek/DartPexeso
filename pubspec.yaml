@@ -1,0 +1,7 @@
+name: DartPexeso
+description: A sample web application
+dependencies:
+  browser: any
+  shuffle: any
+dev_dependencies:
+  unittest: any
